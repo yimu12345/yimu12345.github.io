@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Guan Juntao, Associate Professor of Integrated Circuits and Systems Laboratory, Ph.D. in Engineering from Xi'an University of Electronic Science and Technology. My main research focuses on the intelligent image signal processor AI-ISP and edge neural network processor EdgeNPU. As a major member, I participated in national key research and development programs, National Natural Science Foundation of China, equipment pre research and other scientific research projects. Published over 10 academic papers in international journals such as IEEE TNNLS, IEEE TCSVT, IEEE GRSL, Neurocomputing, and applied for and granted 11 national invention patents. Also served as a reviewer for multiple academic journals such as IEEE GRSL and IEEE Photonics Journal.
+官俊涛，集成电路与系统实验室准聘副教授，西安电子科技大学工学博士。主要研究方向为智能图像信号处理器AI-ISP、边缘神经网络处理器EdgeNPU，作为主要成员参与国家重点研发计划、国家自然科学基金、装备预研等科研项目。在IEEE TNNLS、IEEE TCSVT、IEEE GRSL、Neurocomputing等国际期刊上发表学术论文10余篇，申请与授权国家发明专利11项，并担任IEEE GRSL、IEEEPhotonics Journal等多个学术期刊的审稿人。
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=F9wcXmYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=F9wcXmYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
